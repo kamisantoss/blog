@@ -1,0 +1,84 @@
+
+html {
+    font-family: Arial;
+    background-color: rgb(245 208 78);
+    padding: 60px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+body {
+    background-color: white;
+    padding-left: 30px;
+    padding-top: 30px;
+    border-radius: 20px;
+    border: 2px solid black;
+    width: 370px;
+    height: 500px;
+    padding-bottom: 20px;
+    box-shadow: 15px 10px 10px;
+    
+}
+
+.yellow {
+    border-radius: 20px;
+}
+
+.Learning {
+    background-color: yellow;
+    font-weight: 700;
+    padding-left: 10px;
+    padding-right: 25px;
+    width: 50px;
+    display: flex;
+    justify-content: start;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-radius: 10px;
+}
+
+
+span {
+    font-weight: 700;
+}
+
+
+div {
+    color: grey;
+    padding-bottom: 30px;
+}
+
+
+.Greg {
+    font-weight: 700;
+    display: flex;
+    align-items: flex-start;
+    margin-left: 10px;
+}
+
+.zdjecie {
+    border-radius: 100%;
+    width: 40px;
+    display: flex;
+    align-items: flex-start;
+}
+
+
+section.signature {
+    display: flex;
+    align-items: center;
+}
+
+
+h2 {
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+
+
+ 
+.h2:hover, .h2:active {
+    color: darkkhaki;
+}
